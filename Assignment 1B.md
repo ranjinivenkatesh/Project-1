@@ -103,3 +103,6 @@ imagesize | kernel      o/P
 173 x 173 | 3x3         171x171
 171 x 171 | 3x3         169x169
 169 x 169 | 3x3         167x167
+
+a	b 	c
+
